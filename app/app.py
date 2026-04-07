@@ -39,7 +39,7 @@ HTML_PAGE = """
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 20px;
+            padding: 22px;
         }
         .container {
             width: 100%;
